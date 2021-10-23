@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning how to learn
 - 💞️ I’m looking to collaborate on McDonald's
 
-<!---
-Ztuber45/Ztuber45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+  <img height='180cm' scr='https://github-readme-stats.vercel.app/api?username=Ztuber45&show_icons=true&theme=blue&include_all_commits=true&count_private=true'/>
+</div>

@@ -6,5 +6,5 @@
 - 💞️ I’m looking to collaborate on McDonald's
 
 <div>
-  <img height='180cm' scr='https://github-readme-stats.vercel.app/api?username=Ztuber45&show_icons=true&theme=blue&include_all_commits=true&count_private=true'/>
+  <img height='180cm' scr='https://github-readme-stats.vercel.app/api?username=Ztuber45&show_icons=true&theme=dracula&include_all_commits=true&count_private=true'/>
 </div>
